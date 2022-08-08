@@ -9,7 +9,7 @@ function App() {
     <Navbar title="Notes Taker" />
 
     <div className='container'>
-      <TextForm heading="MyNote 1"/>
+      <TextForm heading="My Note"/>
     </div>
     
 
